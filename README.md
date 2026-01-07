@@ -1,8 +1,8 @@
-# About Me:
+## About Me:
 I’m currently working on my thesis<br>Learning about HCI, Cybersecurity, Authentication Systems<br>Fun fact: I also take photos.
 
 
-## Contact me:
+## Contact me here:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aron.nowhat) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aron.nowhat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aronnohere) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammadaronno@gmail.com) 
 
 ## Thingamabobs:
