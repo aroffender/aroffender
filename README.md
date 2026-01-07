@@ -13,6 +13,6 @@ I’m currently working on my thesis<br>Learning about HCI, Cybersecurity, Authe
 
 
 ## See my photos:
-###Unplash: https://unsplash.com/@aron_nowhat
-###Almost a portfolio: https://aronnosshutter.mypixieset.com/
+Unplash: https://unsplash.com/@aron_nowhat <br>
+Almost a portfolio: https://aronnosshutter.mypixieset.com/
 
