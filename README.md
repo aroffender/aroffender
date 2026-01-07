@@ -11,7 +11,6 @@ I’m currently working on my thesis<br>Learning about HCI, Cybersecurity, Authe
 ![](https://nirzak-streak-stats.vercel.app/?user=aroffender&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aroffender&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-
 ## Visit my photography profiles:
 Unplash: https://unsplash.com/@aron_nowhat <br>
 Almost a portfolio: https://aronnosshutter.mypixieset.com/
